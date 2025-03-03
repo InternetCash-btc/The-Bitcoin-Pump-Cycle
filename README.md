@@ -13,4 +13,11 @@ Abstract. This bitcoin model uses a geometrical spiral representation of the num
 
 </p>
 
-> Please see video tutorials for an overview of the model
+Full Cycle Introduction Video
+>
+[![Full Cycle Introduction Video](https://img.youtube.com/vi/LexmVimKUO4/0.jpg)](https://youtu.be/LexmVimKUO4)
+
+
+Mid Cycle Introduction Video
+>
+[![Mid Cycle Introduction Video](https://img.youtube.com/vi/0ZtPRDrCKqY/0.jpg)](https://youtu.be/0ZtPRDrCKqY)
