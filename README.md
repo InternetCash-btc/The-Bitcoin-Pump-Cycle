@@ -1,11 +1,15 @@
 <p align="center">
-The Pump Cycle - A Geometrical Spiral Calendaring System for Bitcoin.  
+The Pump Cycle  
 <p align="center">  
 Modeling every bitcoin price cycle with a mathematical relationship to π.
 <p align="center">
 By: InternetCash
 </p>
-Abstract. This bitcoin model uses a geometrical spiral representation of the number π as a key to align all bitcoin price cycles into a mathematical chain of time. Users of this model can both forecast and validate each and every bitcoin price cycle’s length from start to finish using a completed cycle length as input. The pattern has been building over a 15-year timespan, bitcoin’s entire life. No user input is required and the mathematical calculations are fully complete. Color-coded charts are provided for the user to view all cycles graphically. Each cycle will have a start and end degree position on the spiral key. Every completed cycle will have an actual duration and a model duration. Compare the difference between actual and model for validation.
+Abstract. This is an open source model for bitcoin. In short, the model has the ability to mathematically forecast cycle lengths using past cycle data as input.
+The model consists of several formulas which are listed below. The formulas, in combination with the spiral key, allows users of this model to forecast cycle lengths.
+There are two tables that comprise the model. 'Full Cycles' and 'Mid-Cycles'. Color coded charts are provided as a graphical illustration. Please see the two YouTube videos for instructions. 
+<img width="81" height="79" alt="image" src="https://github.com/user-attachments/assets/fb6c6556-995a-4793-97fa-18c4222803de" />
+
 
 <p>
   
