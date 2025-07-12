@@ -8,6 +8,7 @@ By: InternetCash
 Abstract. This is an open source model for bitcoin. In short, the model has the ability to mathematically forecast cycle lengths using past cycle data as input.
 The model consists of several formulas which are listed below. The formulas, in combination with the spiral key, allows users of this model to forecast cycle lengths.
 There are two tables that comprise the model. 'Full Cycles' and 'Mid-Cycles'. Color coded charts are provided as a graphical illustration. Please see the two YouTube videos for instructions. 
+
 <img width="81" height="79" alt="image" src="https://github.com/user-attachments/assets/fb6c6556-995a-4793-97fa-18c4222803de" />
 
 
