@@ -1,14 +1,11 @@
 <p align="center">
 The Pump Cycle  
 <p align="center">  
-Modeling every bitcoin price cycle with a mathematical relationship to π.
-<p align="center">
 By: InternetCash
 </p>
 Abstract. This is an open source model for bitcoin. In short, the model has the ability to mathematically forecast cycle lengths using past cycle data as input.
-The model consists of several formulas which are listed below. The formulas, in combination with the spiral key, allows users of this model to forecast cycle lengths.
-There are two tables that comprise the model. 'Full Cycles' and 'Mid-Cycles'. Color coded charts are provided as a graphical illustration. Please see the two YouTube videos for instructions. 
-
+The model consists of several formulas which are listed below. There are two tables that comprise the model: 'Full Cycles' and 'Mid-Cycles'.
+Color-coded charts are provided as a graphical illustration. Please see the tutorial videos for instructions. 
 
 <p>
   
