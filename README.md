@@ -1,5 +1,5 @@
 <p align="center">
-The Pump Cycle  
+The Pump Cycle - The Connection Between Crop Circles and Bitcoin 
 <p align="center">  
 By: InternetCash
 </p>
