@@ -1,7 +1,7 @@
 <p align="center">
 The Pump Cycle - The Connection Between Crop Circles and Bitcoin 
 <p align="center">  
-By: InternetCash
+By: Uncle Pete
 </p>
 There is a clear correlation between the Wiltshire, UK Pi crop circle and bitcoin's cyclical behavior. Both came into form
 during the summer of 2008, in the same location. The crop circle can be used as a key to foretell bitcoin's cyclical future.
